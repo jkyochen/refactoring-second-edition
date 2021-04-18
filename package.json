@@ -1,0 +1,11 @@
+{
+  "name": "refactoring-second-edition",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lanlyhs/refactoring-second-edition.git",
+  "author": "Lanlyhs <ziqiang.chen@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.3.4"
+  }
+}
